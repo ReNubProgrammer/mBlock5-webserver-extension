@@ -5,9 +5,7 @@ _Note: if you experienced bugs or error please contact the makeblock indonesia_
 
 ## 🏎️ mBot2 or CyberPi Extension 🏎️
 ### Installation
-a
-#### P
-a
+
 
 ## 🍎 Swift Playground (macOS) 🍎
 ### How to set up Playgrounds to accept Network Connections
