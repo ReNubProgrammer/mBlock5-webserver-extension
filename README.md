@@ -5,6 +5,7 @@ _Note: if you experienced bugs or error please contact the Makeblock Indonesia_
 
 ## 🏎️ mBot2 or CyberPi Extension 🏎️
 ### Installation
+For the details access this video :
 
 
 ## 🍎 Swift Playground (macOS) 🍎
@@ -16,3 +17,4 @@ _Note: if you experienced bugs or error please contact the Makeblock Indonesia_
 5. Enable both Incoming and Outgoing Network Connections
 6. Click Save
 7. Playgrounds is now set up for Network Connections!
+For the details access this video :
