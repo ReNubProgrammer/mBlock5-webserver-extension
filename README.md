@@ -17,4 +17,5 @@ For the details access this video :
 5. Enable both Incoming and Outgoing Network Connections
 6. Click Save
 7. Playgrounds is now set up for Network Connections!
+
 For the details access this video :
