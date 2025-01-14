@@ -1,7 +1,7 @@
 # 🚀 Extension for CyberPi to do IoT with mBlock5 🚀
 mBlock5 Extensions for CyberPi to do IoT Task
 
-_Note: if you experienced bugs or error please contact the makeblock indonesia_
+_Note: if you experienced bugs or error please contact the Makeblock Indonesia_
 
 ## 🏎️ mBot2 or CyberPi Extension 🏎️
 ### Installation
