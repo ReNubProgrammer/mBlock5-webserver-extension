@@ -1,7 +1,7 @@
 # Extension for CyberPi to do IoT with mBlock5
 mBlock5 Extensions for CyberPi to do IoT Task
 
-### How to set up Playgrounds to accept Network Connections
+### 🍎 How to set up Playgrounds to accept Network Connections (macOS) 🍎
 1. Go to App Settings
 2. Scroll down to Capabilities
 3. Press the Plus (+) button on the top right corner
